@@ -1,6 +1,6 @@
 package de.neuefische;
 
-public class BiologyStudent implements Citizen{
+public class BiologyStudent implements Citizen {
 
     @Override
     public String getAdress() {
@@ -11,4 +11,5 @@ public class BiologyStudent implements Citizen{
     public int getIdentityCardNumber() {
         return 0;
     }
+
 }
