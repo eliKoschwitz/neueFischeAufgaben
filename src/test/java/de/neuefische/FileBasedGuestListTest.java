@@ -3,6 +3,7 @@ package de.neuefische;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -85,16 +86,32 @@ class FileBasedGuestListTest {
 
     @Test
     void doesTheFileExistThrowExceptionIfNot () {
+        File path = Paths.get("/Users/eliaskoschwitz/IdeaProjects/NeueFische/neuefischeaufgaben/neuefische/guestList.txt").toFile();
+
+        // SETUP
+        if (path.exists()) {
+            path.delete();
+        }
         // GIVEN
-        Path path = Paths.get("/Users/eliaskoschwitz/IdeaProjects/NeueFische/neuefischeaufgaben/neuefische/guestList.txt");
+        GuestList guestList = new GuestList();
         // WHEN
         try {
-            //Files.delete(path);
-            List<String> stringL  = Files.readAllLines(path);
+            guestList.readNamesInGuestList();
             Assertions.fail();
         } catch (IOException e) {
             // THEN
             Assertions.assertTrue(true);
         }
+    }
+    // TODO hier noch die letzte Aufgabe machen einen Guest muss geaddet werden.
+    @Test
+    void isThereANewGuest() {
+        // GIVEN
+        String guest = "Elias";
+        GuestList guestList = new GuestList();
+        // WHEN
+        guestList.addGuest(guest);
+        // THEN
+
     }
 }
