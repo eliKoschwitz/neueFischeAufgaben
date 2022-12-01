@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d00cec0-239f-48ef-a50f-c234aef5805b" name="Changes" comment="Started with the Task Random Student">
+      <change afterPath="$PROJECT_DIR$/neuefische/Gedanken.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/StudentDBTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/RandomStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/StudentDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/RandomStudentTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +57,55 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.neuefische" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="de.neuefische" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentDBTest.main">
+    <configuration name="StudentDBTest.allStudentsToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neuefischeaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.StudentDBTest" />
+      <option name="METHOD_NAME" value="allStudentsToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentDBTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neuefischeaufgaben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.StudentDBTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentDBTest.main" />
+        <item itemvalue="JUnit.StudentDBTest.allStudentsToString" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -1,0 +1,12 @@
+1. Der Konstruktor nimmt ein Array von Studenten entgegen
+    - soll das getestet werden?
+
+2. Jeder Student hat einen Namen und eine Id
+    - Hier für Test der prüft, ob beim anlegen ein name und eine Id enthalten.
+
+3. Die Methode getAllStudents gibt alle Studenten als Array zurück
+    - Hier Test
+
+4. Die Methode toString() gibt alle Studenten formatiert als String zurück
+
+5. Die Methode randomStudent() gibt einen zufälligen Studenten zurück (Nutze für den Zufall Math.random())
