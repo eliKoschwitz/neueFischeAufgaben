@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d00cec0-239f-48ef-a50f-c234aef5805b" name="Changes" comment="Init: Big Bang">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/FileBasedGuestListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/FileBasedGuestListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/eliaskoschwitz/IdeaProjects/NeueFische/neuefischeaufgaben",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -160,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669716562885</updated>
       <workItem from="1669823438331" duration="22926000" />
-      <workItem from="1669900890671" duration="1642000" />
+      <workItem from="1669900890671" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="Init: remove Main from new Branch">
       <created>1669823637199</created>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669823637199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init: Big Bang">
+      <created>1669908802733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669908802733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +196,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projekt: Implement all tasks. The Delete is not working properly" />
     <MESSAGE value="Init: remove Main from new Branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init: remove Main from new Branch" />
+    <MESSAGE value="Init: Big Bang" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init: Big Bang" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
