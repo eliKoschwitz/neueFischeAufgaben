@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d00cec0-239f-48ef-a50f-c234aef5805b" name="Changes" comment="Started with the Task Random Student">
-      <change afterPath="$PROJECT_DIR$/neuefische/Gedanken.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/StudentDBTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/RandomStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/StudentDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/StudentDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/neuefische/RandomStudentTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8d00cec0-239f-48ef-a50f-c234aef5805b" name="Changes" comment="Still Todos noch einen Test für die letzte Methode schreiben" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669732144392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Still Todos noch einen Test für die letzte Methode schreiben">
+      <created>1669928439543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669928439543</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +166,7 @@
     <MESSAGE value="Init: BigBang" />
     <MESSAGE value="Delete Main" />
     <MESSAGE value="Started with the Task Random Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with the Task Random Student" />
+    <MESSAGE value="Still Todos noch einen Test für die letzte Methode schreiben" />
+    <option name="LAST_COMMIT_MESSAGE" value="Still Todos noch einen Test für die letzte Methode schreiben" />
   </component>
 </project>
